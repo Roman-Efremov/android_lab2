@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">5sem_lab2</string>
+    <string name="name">Efremov Roman Igorevich</string>
+    <string name="speciality">Mathematics and Information Technology</string>
+    <string name="group_number">9 group</string>
+    <string name="portrait_view">Portrait view</string>
+    <string name="landscape_view">Landscape view</string>
+</resources>

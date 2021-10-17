@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="name">Ефремов Роман Игоревич</string>
+    <string name="speciality">Математика и информационные технологии</string>
+    <string name="group_number">9 группа</string>
+    <string name="portrait_view">Портретный вид</string>
+    <string name="landscape_view">Ландшафтный вид</string>
+</resources>
